@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "copy-image-cli",
+  "version": "1.1.0",
+  "description": "This npm package will copy your image and will paste to your give path.",
+  "main": "copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Copy",
+    "Copy image to destination folder"
+  ],
+  "bin": {
+    "copy": "./copy.js"
+  },
+  "author": "RaeesKundi",
+  "license": "ISC"
+}

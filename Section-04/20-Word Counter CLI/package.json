@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "count-file-words-cli",
+  "version": "1.1.0",
+  "description": "This package will find out the word count of each word in the file. or any specific word you wrote after file name",
+  "main": "app.js",
+  "bin": {
+    "count-file-words-cli": "./app.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "word-count",
+    "cli",
+    "text-analysis"
+  ],
+  "author": "raiskundi",
+  "license": "ISC"
+}

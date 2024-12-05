@@ -1,0 +1,33 @@
+
+1.fs module works on binary
+2. read in detail in binary module
+3. there are a lot of method and function in buffer module.
+4. in this vedio we will read some of them
+
+difference between simple and sync methods:
+like a one of them is 
+ readFile and reaFileSync
+reaFileSync: its use is strickly prohibited,becuase it
+stop our main thread upto it complete itself.
+we use this one in special cases.
+
+readFile: use generally, it not stopping the main thread like
+in blow code
+fs.readFile("./index.html", (err, data) => {
+  const content = data.toString;
+  console.log(content);
+});
+console.log("End");
+
+first 'End' will print, because loading of file is not stopping the main thread.
+
+Important is which one will we use,
+we will not use any one of them but willuse 
+ import fs from 'node:fs/promises'
+
+ to check difference run code in app.js 
+ with reaFileSync using only fs and with 
+ readFile using fs/promises
+
+ note: callback sytax also work same as readFile, but
+ will create callback hell, that's why not using.

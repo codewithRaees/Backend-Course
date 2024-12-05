@@ -1,0 +1,36 @@
+11/25/2024, 6:32:01 PM
+ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async readFile (node:internal/fs/promises:1238:14)
+    at async file:///C:/Front%20End%20Development/Section-04/21-Writing-in-File/app.js:5:25
+11/25/2024, 6:34:41 PM
+ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async readFile (node:internal/fs/promises:1238:14)
+    at async file:///C:/Front%20End%20Development/Section-04/21-Writing-in-File/app.js:5:25
+
+
+11/25/2024, 6:35:07 PM
+ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async readFile (node:internal/fs/promises:1238:14)
+    at async file:///C:/Front%20End%20Development/Section-04/21-Writing-in-File/app.js:5:25
+
+
+11/25/2024, 6:59:02 PM
+ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async readFile (node:internal/fs/promises:1238:14)
+    at async file:///C:/Front%20End%20Development/Section-04/21-Writing-in-File/app.js:5:25
+
+
+11/25/2024, 6:59:15 PM
+ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Front End Development\Section-04\21-Writing-in-File\raiss.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async readFile (node:internal/fs/promises:1238:14)
+    at async file:///C:/Front%20End%20Development/Section-04/21-Writing-in-File/app.js:5:25

@@ -1,0 +1,7 @@
+{
+  "name": "my-app",
+  "bin": "app.xyz",
+  "dependencies": {
+    "vite": "^5.4.11"
+  }
+}
